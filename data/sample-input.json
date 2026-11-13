@@ -1,0 +1,15 @@
+{
+  "searchTerms": [
+    "plumbers"
+  ],
+  "locations": [
+    "Austin, TX"
+  ],
+  "maxResults": 3,
+  "includeDetails": true,
+  "includeReviews": true,
+  "maxReviewsPerBusiness": 3,
+  "includePhotos": true,
+  "maxPhotosPerBusiness": 3,
+  "sortBy": "relevance"
+}

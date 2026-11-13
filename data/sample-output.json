@@ -1,0 +1,168 @@
+[
+  {
+    "ypid": "473194899",
+    "listingId": "1002194107213",
+    "name": "ARS Rescue Rooter",
+    "phone": "(833) 947-9225",
+    "phoneRaw": "8339479225",
+    "emails": [],
+    "website": null,
+    "yellowPagesUrl": "https://www.yellowpages.com/austin-tx/mip/ars-rescue-rooter-473194899",
+    "street": null,
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78754",
+    "country": "US",
+    "latitude": null,
+    "longitude": null,
+    "distanceMiles": null,
+    "primaryCategory": "Water Heaters",
+    "categories": [
+      "Air Conditioning Contractors & Systems",
+      "Plumbers",
+      "Heating Equipment & Systems",
+      "Air Conditioning Service & Repair",
+      "Heating Equipment & Systems-Repairing",
+      "Plumbing-Drain & Sewer Cleaning",
+      "Heating Contractors & Specialties",
+      "Furnaces-Heating",
+      "Water Heaters",
+      "Plumbing Contractors-Commercial & Industrial"
+    ],
+    "categoryBreadcrumbs": [
+      {
+        "code": "8003546",
+        "text": "Heating Equipment & Systems",
+        "display": "Heating Equipment"
+      },
+      {
+        "code": "8007834",
+        "text": "Water Heaters",
+        "display": "Water Heaters"
+      }
+    ],
+    "rating": 3.5,
+    "reviewCount": 113,
+    "ratingAttributes": [
+      {
+        "name": "Expertise",
+        "id": 1007
+      },
+      {
+        "name": "Professionalism",
+        "id": 1017
+      },
+      {
+        "name": "Promptness",
+        "id": 1033
+      }
+    ],
+    "claimed": false,
+    "openNow": true,
+    "open24Hours": true,
+    "coupon": false,
+    "listingType": "priority",
+    "yearEstablished": null,
+    "yearsListed": 1,
+    "description": "ARS/Rescue Rooter has a proven track record of providing reliable, long-lasting repair services that get the results you need. You don't want to spend any more time than necessary on your home services, which is why we make a point of showing up on time and taking care of the issue as efficiently as possible. We have an Exceptional Service Guarantee in place that lets you know we will keep working away until you're completely satisfied. With this type of guarantee, there is no risk to you so you can rest easy knowing the problem won't last for long. As a leading HVAC and plumbing service provider, we always strive to treat you like a member of the family and will call ahead of time and communicate openly and honestly every step of the way. We are always open 7 days a week, ready to answer your call and dispatch an expert to fix your HVAC or plumbing issues, call us now to schedule a service. All employees undergo background checks and drug tests. With ARS/Rescue Rooter, you can rest assured that all of our services come complete with our worry-free Exceptional Service Guarantee. In addition to treating you and your property with respectâ€”calling before we arrive, using shoe covers and drop cloths as neededâ€”we guarantee that you'll be satisfied with our work, as set out in a written estimate you approve before we start. If you're dissatisfied for any reason, we'll make every effort to meet your expectations. It's that simple.",
+    "slogan": "HVAC and Plumbing Services in Austin",
+    "paymentMethods": [
+      "VISA",
+      "AMEX",
+      "MASTER CARD"
+    ],
+    "languages": [],
+    "accreditations": [],
+    "neighborhoods": [],
+    "brands": [
+      "Goodman",
+      "Mitsubishi",
+      "Bosch",
+      "Diakin",
+      "Bradford White",
+      "April Aire Indoor Air Quality"
+    ],
+    "alsoKnownAs": [],
+    "socialLinks": [],
+    "services": [],
+    "products": [],
+    "about": null,
+    "emergencyService": null,
+    "hours": {
+      "today": {
+        "hours": [
+          [
+            "Today",
+            "Open 24 Hours"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "label": "Regular Hours",
+          "text": "Mon - Sun Open 24 Hours",
+          "hours": [
+            [
+              "Mon - Sun",
+              "Open 24 Hours"
+            ]
+          ]
+        }
+      ]
+    },
+    "hoursExtended": {
+      "default": {
+        "standard_hours": {
+          "wednesday": "0000-2359",
+          "monday": "0000-2359",
+          "thursday": "0000-2359",
+          "sunday": "0000-2359",
+          "tuesday": "0000-2359",
+          "friday": "0000-2359",
+          "saturday": "0000-2359"
+        }
+      }
+    },
+    "photos": [
+      {
+        "id": "ce73451958465ab47dd7be41922973a98bc847af",
+        "url": "http://i1.ypcdn.com/blob/ce73451958465ab47dd7be41922973a98bc847af",
+        "width": 1724,
+        "height": 1800,
+        "primary": true,
+        "category": "image",
+        "createdAt": "2025-06-23 20:30:54 +0000"
+      },
+      {
+        "id": "e7919dff6cfc2efdbad1c981c5ae9aa76f619cbd",
+        "url": "http://i1.ypcdn.com/blob/e7919dff6cfc2efdbad1c981c5ae9aa76f619cbd",
+        "width": 5000,
+        "height": 3335,
+        "primary": false,
+        "category": "image",
+        "createdAt": "2025-06-23 20:30:54 +0000"
+      },
+      {
+        "id": "d43152de79c28cd59e43be5b4c26340d000e6c2a",
+        "url": "http://i3.ypcdn.com/blob/d43152de79c28cd59e43be5b4c26340d000e6c2a",
+        "width": 7112,
+        "height": 4744,
+        "primary": false,
+        "category": "image",
+        "createdAt": "2025-06-23 20:30:54 +0000"
+      }
+    ],
+    "reviews": [],
+    "reviewTotal": 0,
+    "searchTerm": "plumbers",
+    "searchLocation": "Austin, TX",
+    "searchPage": 1,
+    "searchRank": 1,
+    "source": "yellowpages-mobile-api",
+    "appVersion": "10.8.12",
+    "scrapedAt": "2026-11-13T09:57:24+00:00",
+    "detailStatus": "ok",
+    "reviewsStatus": "empty",
+    "photosStatus": "ok"
+  }
+]

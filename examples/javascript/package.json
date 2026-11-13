@@ -1,0 +1,8 @@
+{
+  "name": "yellowpages-us-api-examples",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}
